@@ -9,3 +9,7 @@ https://blog.fal.ai/auraflow/
 Weights:
 
 https://huggingface.co/fal/AuraFlow
+
+# Clone this repository:
+
+    git clone --recurse-submodules https://github.com/lucataco/cog-aura-flow-v0.2
