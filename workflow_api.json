@@ -31,7 +31,7 @@
   },
   "4": {
     "inputs": {
-      "ckpt_name": "aura_flow_0.1.safetensors"
+      "ckpt_name": "aura_flow_0.2.safetensors"
     },
     "class_type": "CheckpointLoaderSimple",
     "_meta": {

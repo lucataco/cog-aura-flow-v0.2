@@ -33,7 +33,7 @@ class Predictor(BasePredictor):
         self.comfyUI.handle_weights(
             workflow,
             weights_to_download=[
-                "aura_flow_0.1.safetensors",
+                "aura_flow_0.2.safetensors",
             ],
         )
 
